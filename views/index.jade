@@ -1,0 +1,16 @@
+extends layout
+
+block content
+  h1= title
+  p 
+    span Welcome to #{title}
+      if user
+        span ,
+        span(class='user-label')  #{user.username}
+        span !
+      else
+        span !
+  div
+    p
+      if user
+        span hello world

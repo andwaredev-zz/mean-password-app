@@ -1,0 +1,18 @@
+/*body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+*/
+
+a {
+  color: rgba(255, 125, 35, 1);
+}
+
+.user-label {
+	color: rgba(255, 117, 25, 0.95);
+	font-weight: bold;
+}
+
+.navbar-inverse .navbar-nav>.active>a {
+	background-color: transparent;
+}
