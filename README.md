@@ -6,6 +6,6 @@ First install MongoDB. Open a terminal tab and issue the command <br />
 `mongod`<br /> 
 to start running a mongo instance locally.<br /><br />
 Next, clone the git repo to your disk, cd into it, and issue <br />
-`npm install && npm start`<br /><br />
+`npm install && npm run start`<br /><br />
 This should get you up and running on localhost:3000<br />
 Now build up.
